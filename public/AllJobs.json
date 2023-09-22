@@ -1,0 +1,94 @@
+ [
+      {
+        "id": 4,
+        "company_name": "WebTech Solutions",
+        "company_img": "https://example.com/webtech_logo.png",
+        "job_title": "Front-end Web Developer",
+        "job_category": "Information Technology",
+        "salary_per_month": "$5,500 - $7,000",
+        "job_system": "Remote",
+        "office_time": "Full-time",
+        "head_office_address": "Remote",
+        "local_agency_address": "789 Tech Plaza, City, State, ZIP",
+        "phone": "+123-456-7890",
+        "email": "hr@webtechsolutions.com",
+        "requirements": [
+          "Proficiency in HTML, CSS, and JavaScript",
+          "Experience with front-end frameworks like React or Angular",
+          "Strong problem-solving skills",
+          "Excellent communication skills"
+        ],
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experience_required": "2-4 years of front-end development experience",
+        "job_description": "WebTech Solutions is hiring a Front-end Web Developer to work remotely on exciting web projects."
+      },
+      {
+        "id": 5,
+        "company_name": "HealthCare Plus",
+        "company_img": "https://example.com/healthcare_logo.png",
+        "job_title": "Registered Nurse",
+        "job_category": "Healthcare",
+        "salary_per_month": "$4,500 - $6,000",
+        "job_system": "On-site",
+        "office_time": "Full-time",
+        "head_office_address": "123 Medical Avenue, City, State, ZIP",
+        "local_agency_address": "N/A",
+        "phone": "+987-654-3210",
+        "email": "careers@healthcareplus.com",
+        "requirements": [
+          "Bachelor of Science in Nursing (BSN)",
+          "Current nursing license",
+          "Compassion and strong patient care skills"
+        ],
+        "educational_requirements": "Bachelor of Science in Nursing (BSN)",
+        "experience_required": "Minimum of 2 years of nursing experience",
+        "job_description": "Join HealthCare Plus as a Registered Nurse and make a difference in patient care."
+      },
+      {
+        "id": 6,
+        "company_name": "CreativeVisions Media",
+        "company_img": "https://example.com/creativevisions_logo.png",
+        "job_title": "Graphic Designer",
+        "job_category": "Design",
+        "salary_per_month": "$4,000 - $5,500",
+        "job_system": "On-site",
+        "office_time": "Full-time",
+        "head_office_address": "456 Design Street, City, State, ZIP",
+        "local_agency_address": "N/A",
+        "phone": "+555-123-4567",
+        "email": "design@creativevisionsmedia.com",
+        "requirements": [
+          "Proficiency in Adobe Creative Suite",
+          "Strong design portfolio",
+          "Creativity and attention to detail"
+        ],
+        "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+        "experience_required": "3-5 years of graphic design experience",
+        "job_description": "CreativeVisions Media is looking for a talented Graphic Designer to create stunning visuals for our clients."
+      },
+      {
+        "id": 7,
+        "company_name": "FinanceFirm LLC",
+        "company_img": "https://example.com/financefirm_logo.png",
+        "job_title": "Financial Analyst",
+        "job_category": "Finance",
+        "salary_per_month": "$6,000 - $8,000",
+        "job_system": "On-site",
+        "office_time": "Full-time",
+        "head_office_address": "789 Financial Avenue, City, State, ZIP",
+        "local_agency_address": "N/A",
+        "phone": "+777-888-9999",
+        "email": "careers@financefirm.com",
+        "requirements": [
+          "Strong analytical and financial modeling skills",
+          "Bachelor's degree in Finance or related field",
+          "Knowledge of financial software"
+        ],
+        "educational_requirements": "Bachelor's degree in Finance or related field",
+        "experience_required": "2-4 years of financial analysis experience",
+        "job_description": "Join FinanceFirm LLC as a Financial Analyst and contribute to financial decision-making."
+      }
+      
+    ]
+  
+  

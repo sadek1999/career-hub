@@ -1,8 +1,14 @@
+import Bannar from "../../bannar/Bannar";
+import Category from "../catagory/Category";
+import Featured from "../featured/Featured";
 
 const Home = () => {
     return (
-        <div>
-            <h3 className="text-3xl text-center">This is from home page</h3>
+        <div className="space-y-3">
+            
+            <Bannar></Bannar>
+            <Category></Category>
+            <Featured></Featured>
             
         </div>
     );

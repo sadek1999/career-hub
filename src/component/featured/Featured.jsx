@@ -3,6 +3,8 @@ import { useState } from "react";
 import Job from "../job/Job";
 
 
+
+
 const Featured = () => {
     const [jobs,setJobs]=useState([]);
     const[datalength,setdatalength]=useState([4])
@@ -24,7 +26,9 @@ const Featured = () => {
                 }
             </div>
             <div className={datalength===jobs.length && 'hidden'}>
-                <button onClick={()=>setdatalength(6)} className="btn btn-primary">Show all</button>
+               
+               <button onClick={()=>setdatalength(6)} className="btn btn-primary">Show all</button>
+              
             </div>
         </div>
     );
